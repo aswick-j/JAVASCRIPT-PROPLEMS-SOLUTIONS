@@ -20,3 +20,4 @@ const roman2int = (data) => {
 };
 
 console.log(roman2int("III"));
+console.log(roman2int("IV"));
